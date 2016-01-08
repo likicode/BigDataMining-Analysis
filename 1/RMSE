@@ -1,0 +1,5 @@
+RMSE(result_1_movie) = 0.9336212
+RMSE(result_1_user) = 1.0282677
+RMSE(result_1_1) = 1.027915812345421
+RMSE(result_1_3) = 0.89902134
+

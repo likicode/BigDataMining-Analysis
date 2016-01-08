@@ -1,0 +1,4 @@
+MovieCluster.m脚本是对电影使用kMeans进行聚类
+UserCluster.m是对用户使用kMeans进行聚类
+得到的这些结果都会存储起来，用于进一步优化推荐算法，推荐过程调用Problem1中封装好的方法。
+所有的RMSE及相关分析及都在文档的第5部分。
